@@ -46,6 +46,10 @@
     <Compile Include="Chapter1\Listing1_1.cs" />
     <Compile Include="Chapter1\Listing1_2.cs" />
     <Compile Include="Chapter1\Listing1_3.cs" />
+    <Compile Include="Chapter1\Listing1_4.cs" />
+    <Compile Include="Chapter1\Listing1_5.cs" />
+    <Compile Include="Chapter1\Listing1_6.cs" />
+    <Compile Include="Chapter1\Listing1_7.cs" />
     <Compile Include="Interfaces\IExecuter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

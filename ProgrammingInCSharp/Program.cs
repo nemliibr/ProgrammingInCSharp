@@ -18,9 +18,13 @@ namespace ProgrammingInCSharp
             IExecuter code = null;
 
             //chapter 1
-            //code = new Listing1_1();
+            code = new Listing1_1();
             //code = new Listing1_2();
-            code = new Listing1_3();
+            //code = new Listing1_3();
+            //code = new Listing1_4();
+            //code = new Listing1_5();
+            //code = new Listing1_6();
+            //code = new Listing1_7();
 
             code.Execute(args);
             Console.ReadLine();
