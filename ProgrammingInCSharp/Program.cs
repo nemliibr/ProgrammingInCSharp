@@ -25,6 +25,14 @@ namespace ProgrammingInCSharp
             //code = new Listing1_5();
             //code = new Listing1_6();
             //code = new Listing1_7();
+            //code = new Listing1_8();
+            //code = new Listing1_9();
+            //code = new Listing1_10();
+            //code = new Listing1_11();
+            //code = new Listing1_12();
+            //code = new Listing1_13();
+            //code = new Listing1_14();
+            //code = new Listing1_15();
 
             code.Execute(args);
             Console.ReadLine();
