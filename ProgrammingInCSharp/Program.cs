@@ -33,6 +33,26 @@ namespace ProgrammingInCSharp
             //code = new Listing1_13();
             //code = new Listing1_14();
             //code = new Listing1_15();
+            //code = new Listing1_16();
+            //code = new Listing1_17();
+            //code = new Listing1_18();
+            //code = new Listing1_19();
+            //code = new Listing1_20();
+            //code = new Listing1_21();
+            //code = new Listing1_22();
+            //code = new Listing1_23();
+            //code = new Listing1_24();
+            //code = new Listing1_25();
+            //code = new Listing1_26();
+            //code = new Listing1_27();
+            //code = new Listing1_28();
+            //code = new Listing1_29();
+            //code = new Listing1_30();
+            //code = new Listing1_31();
+            //code = new Listing1_32();
+            //code = new Listing1_33();
+            //code = new Listing1_34();
+                        
 
             code.Execute(args);
             Console.ReadLine();
