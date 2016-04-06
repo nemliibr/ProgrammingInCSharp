@@ -19,7 +19,7 @@ namespace ProgrammingInCSharp.Chapter1
         }
 
         //Creates the WPF and show it on the WinForm on load event
-        private void Listing1_20WinFrom_Load(object sender, EventArgs e)
+        private void Listing1_20WinForm_Load(object sender, EventArgs e)
         {
             ElementHost host = new ElementHost();
             host.Dock = DockStyle.Fill;
