@@ -95,13 +95,23 @@
     <Compile Include="Chapter1\Listing1_32.cs" />
     <Compile Include="Chapter1\Listing1_33.cs" />
     <Compile Include="Chapter1\Listing1_34.cs" />
+    <Compile Include="Chapter1\Listing1_35.cs" />
+    <Compile Include="Chapter1\Listing1_36.cs" />
+    <Compile Include="Chapter1\Listing1_37.cs" />
+    <Compile Include="Chapter1\Listing1_39.cs" />
     <Compile Include="Chapter1\Listing1_4.cs" />
+    <Compile Include="Chapter1\Listing1_40.cs" />
+    <Compile Include="Chapter1\Listing1_41.cs" />
+    <Compile Include="Chapter1\Listing1_45.cs" />
     <Compile Include="Chapter1\Listing1_5.cs" />
     <Compile Include="Chapter1\Listing1_6.cs" />
     <Compile Include="Chapter1\Listing1_7.cs" />
     <Compile Include="Chapter1\Listing1_8.cs" />
     <Compile Include="Chapter1\Listing1_9.cs" />
     <Compile Include="Interfaces\IExecuter.cs" />
+    <Compile Include="Chapter1\Listing1_42.cs" />
+    <Compile Include="Chapter1\Listing1_43.cs" />
+    <Compile Include="Chapter1\Listing1_44.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
