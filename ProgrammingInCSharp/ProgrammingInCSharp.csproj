@@ -118,12 +118,25 @@
     <Compile Include="Chapter1\Listing1_7.cs" />
     <Compile Include="Chapter1\Listing1_72.cs" />
     <Compile Include="Chapter1\Listing1_74.cs" />
+    <Compile Include="Chapter1\Listing1_75.cs" />
+    <Compile Include="Chapter1\Listing1_76.cs" />
+    <Compile Include="Chapter1\Listing1_77.cs" />
+    <Compile Include="Chapter1\Listing1_78.cs" />
     <Compile Include="Chapter1\Listing1_8.cs" />
+    <Compile Include="Chapter1\Listing1_80.cs" />
+    <Compile Include="Chapter1\Listing1_81.cs" />
+    <Compile Include="Chapter1\Listing1_82.cs" />
+    <Compile Include="Chapter1\Listing1_83.cs" />
+    <Compile Include="Chapter1\Listing1_84.cs" />
+    <Compile Include="Chapter1\Listing1_85.cs" />
+    <Compile Include="Chapter1\Listing1_86.cs" />
+    <Compile Include="Chapter1\Listing1_87.cs" />
     <Compile Include="Chapter1\Listing1_9.cs" />
     <Compile Include="Interfaces\IExecuter.cs" />
     <Compile Include="Chapter1\Listing1_42.cs" />
     <Compile Include="Chapter1\Listing1_43.cs" />
     <Compile Include="Chapter1\Listing1_44.cs" />
+    <Compile Include="Chapter1\Listing1_79.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
