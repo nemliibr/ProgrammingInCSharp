@@ -18,7 +18,7 @@ namespace ProgrammingInCSharp
             IExecuter code = null;
 
             //chapter 1
-            //code = new Listing1_1();
+            code = new Listing1_1();
             //code = new Listing1_2();
             //code = new Listing1_3();
             //code = new Listing1_4();
@@ -62,6 +62,18 @@ namespace ProgrammingInCSharp
             //code = new Listing1_43();
             //code = new Listing1_44();
             //code = new Listing1_45();
+            //code = new Listing1_48();
+            //code = new Listing1_50();
+            //code = new Listing1_54();
+            //code = new Listing1_58();
+            //code = new Listing1_59();
+            //code = new Listing1_63();
+            //code = new Listing1_65();
+            //code = new Listing1_66();
+            //code = new Listing1_67();
+            //code = new Listing1_68();
+            //code = new Listing1_72();
+            //code = new Listing1_74();
                         
             code.Execute(args);
             Console.WriteLine("Press enter to end the application");
