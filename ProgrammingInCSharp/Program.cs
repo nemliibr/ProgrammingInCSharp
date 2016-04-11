@@ -87,7 +87,18 @@ namespace ProgrammingInCSharp
             //code = new Listing1_85();
             //code = new Listing1_86();
             //code = new Listing1_87();
-                                    
+            //code = new Listing1_88();
+            //code = new Listing1_89();
+            //code = new Listing1_90();
+            //code = new Listing1_91();
+            //code = new Listing1_92();
+            //code = new Listing1_93();
+            //code = new Listing1_94();
+            //code = new Listing1_95();
+            //code = new Listing1_96();
+            //code = new Listing1_97();
+            //code = new Listing1_98();
+                        
             code.Execute(args);
             Console.WriteLine("Press enter to end the application");
             Console.ReadLine();
