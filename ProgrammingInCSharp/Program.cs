@@ -116,6 +116,12 @@ namespace ProgrammingInCSharp
             //code = new Listing2_26();
             //code = new Listing2_40();
             //code = new Listing2_44();
+            //code = new Listing2_47();
+            //code = new Listing2_48();
+            //code = new Listing2_49();
+            //code = new Listing2_54();
+            //code = new Listing2_55();
+            //code = new Listing2_56();
             #endregion
 
             code.Execute(args);
