@@ -1,4 +1,5 @@
 ﻿using ProgrammingInCSharp.Chapter1;
+using ProgrammingInCSharp.Chapter2;
 using ProgrammingInCSharp.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -17,8 +18,8 @@ namespace ProgrammingInCSharp
 
             IExecuter code = null;
 
-            //chapter 1
-            code = new Listing1_1();
+            #region Chapter 1
+            //code = new Listing1_1();
             //code = new Listing1_2();
             //code = new Listing1_3();
             //code = new Listing1_4();
@@ -98,7 +99,25 @@ namespace ProgrammingInCSharp
             //code = new Listing1_96();
             //code = new Listing1_97();
             //code = new Listing1_98();
-                        
+            #endregion
+
+            #region Chapter 2
+            //code = new Listing2_1();
+            //code = new Listing2_2();
+            //code = new Listing2_7();
+            //code = new Listing2_10();
+            //code = new Listing2_12();
+            //code = new Listing2_14();
+            //code = new Listing2_16();
+            //code = new Listing2_17();
+            //code = new Listing2_21();
+            //code = new Listing2_23();
+            //code = new Listing2_24();
+            //code = new Listing2_26();
+            //code = new Listing2_40();
+            //code = new Listing2_44();
+            #endregion
+
             code.Execute(args);
             Console.WriteLine("Press enter to end the application");
             Console.ReadLine();

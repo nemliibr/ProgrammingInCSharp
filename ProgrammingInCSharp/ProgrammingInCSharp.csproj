@@ -143,6 +143,20 @@
     <Compile Include="Chapter1\Listing1_96.cs" />
     <Compile Include="Chapter1\Listing1_97.cs" />
     <Compile Include="Chapter1\Listing1_98.cs" />
+    <Compile Include="Chapter2\Listing2_44.cs" />
+    <Compile Include="Chapter2\Listing2_1.cs" />
+    <Compile Include="Chapter2\Listing2_10.cs" />
+    <Compile Include="Chapter2\Listing2_12.cs" />
+    <Compile Include="Chapter2\Listing2_14.cs" />
+    <Compile Include="Chapter2\Listing2_16.cs" />
+    <Compile Include="Chapter2\Listing2_17.cs" />
+    <Compile Include="Chapter2\Listing2_2.cs" />
+    <Compile Include="Chapter2\Listing2_21.cs" />
+    <Compile Include="Chapter2\Listing2_23.cs" />
+    <Compile Include="Chapter2\Listing2_24.cs" />
+    <Compile Include="Chapter2\Listing2_26.cs" />
+    <Compile Include="Chapter2\Listing2_40.cs" />
+    <Compile Include="Chapter2\Listing2_7.cs" />
     <Compile Include="Interfaces\IExecuter.cs" />
     <Compile Include="Chapter1\Listing1_42.cs" />
     <Compile Include="Chapter1\Listing1_43.cs" />
@@ -155,7 +169,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Chapter2\" />
     <Folder Include="Chapter3\" />
     <Folder Include="Chapter4\" />
   </ItemGroup>
