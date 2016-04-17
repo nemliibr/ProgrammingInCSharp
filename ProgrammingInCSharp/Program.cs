@@ -1,5 +1,6 @@
 ﻿using ProgrammingInCSharp.Chapter1;
 using ProgrammingInCSharp.Chapter2;
+using ProgrammingInCSharp.Chapter3;
 using ProgrammingInCSharp.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -140,6 +141,20 @@ namespace ProgrammingInCSharp
             //code = new Listing2_89();
             //code = new Listing2_91();
             //code = new IFormattableExample();
+            #endregion
+
+            #region Chapter 3
+            //code = new Listing3_1();
+            //code = new Listing3_3();
+            //code = new Listing3_4();
+            //code = new Listing3_5();
+            //code = new Listing3_6();
+            //code = new Listing3_7();
+            //code = new Listing3_8();
+            //code = new Listing3_10();
+            //code = new Listing3_11();
+            //code = new Listing3_12();
+            //code = new Listing3_16();
             #endregion
 
             code.Execute(args);
