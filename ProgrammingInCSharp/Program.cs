@@ -19,7 +19,7 @@ namespace ProgrammingInCSharp
             IExecuter code = null;
 
             #region Chapter 1
-            //code = new Listing1_1();
+            code = new Listing1_1();
             //code = new Listing1_2();
             //code = new Listing1_3();
             //code = new Listing1_4();
@@ -122,6 +122,24 @@ namespace ProgrammingInCSharp
             //code = new Listing2_54();
             //code = new Listing2_55();
             //code = new Listing2_56();
+            //code = new Listing2_61();
+            //code = new Listing2_66();
+            //code = new Listing2_69();
+            //code = new Listing2_72();
+            //code = new Listing2_73();
+            //code = new Listing2_74();
+            //code = new Listing2_77();
+            //code = new Listing2_78();
+            //code = new Listing2_79();
+            //code = new Listing2_80();
+            //code = new Listing2_81();
+            //code = new Listing2_84();
+            //code = new Listing2_85();
+            //code = new Listing2_87();
+            //code = new Listing2_88();
+            //code = new Listing2_89();
+            //code = new Listing2_91();
+            //code = new IFormattableExample();
             #endregion
 
             code.Execute(args);
