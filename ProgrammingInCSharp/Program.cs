@@ -157,6 +157,10 @@ namespace ProgrammingInCSharp
             //code = new Listing3_16();
             //code = new Listing3_17();
             //code = new Listing3_18();
+            //code = new Listing3_23();
+            //code = new Listing3_24();
+            //code = new Listing3_25();
+            //code = new Listing3_27();
             #endregion
 
             code.Execute(args);

@@ -196,6 +196,10 @@
     <Compile Include="Chapter3\Listing3_16.cs" />
     <Compile Include="Chapter3\Listing3_17.cs" />
     <Compile Include="Chapter3\Listing3_18.cs" />
+    <Compile Include="Chapter3\Listing3_23.cs" />
+    <Compile Include="Chapter3\Listing3_24.cs" />
+    <Compile Include="Chapter3\Listing3_25.cs" />
+    <Compile Include="Chapter3\Listing3_27.cs" />
     <Compile Include="Chapter3\Listing3_3.cs" />
     <Compile Include="Chapter3\Listing3_4.cs" />
     <Compile Include="Chapter3\Listing3_5.cs" />
