@@ -201,7 +201,17 @@
     <Compile Include="Chapter3\Listing3_25.cs" />
     <Compile Include="Chapter3\Listing3_27.cs" />
     <Compile Include="Chapter3\Listing3_3.cs" />
+    <Compile Include="Chapter3\Listing3_33.cs" />
+    <Compile Include="Chapter3\Listing3_34.cs" />
+    <Compile Include="Chapter3\Listing3_35.cs" />
+    <Compile Include="Chapter3\Listing3_37.cs" />
+    <Compile Include="Chapter3\Listing3_38.cs" />
+    <Compile Include="Chapter3\Listing3_39.cs" />
     <Compile Include="Chapter3\Listing3_4.cs" />
+    <Compile Include="Chapter3\Listing3_41.cs" />
+    <Compile Include="Chapter3\Listing3_45.cs" />
+    <Compile Include="Chapter3\Listing3_46.cs" />
+    <Compile Include="Chapter3\Listing3_49.cs" />
     <Compile Include="Chapter3\Listing3_5.cs" />
     <Compile Include="Chapter3\Listing3_6.cs" />
     <Compile Include="Chapter3\Listing3_7.cs" />

@@ -2,6 +2,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -29,6 +30,8 @@ namespace ProgrammingInCSharp.Chapter2
     }
 
     //LISTING 2-96  Overriding ToString
+    //LISTING 3-43  Applying the DebuggerDisplayAttribute
+    [DebuggerDisplay("Name = {FirstName} {LastName}")]
     class Person
     {
         public string FirstName { get; set; }
